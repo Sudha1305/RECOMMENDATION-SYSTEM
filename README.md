@@ -12,6 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+
 **The primary goal of this task is to implement a simple yet effective recommendation system using matrix factorization via collaborative filtering. 
 
 Recommendation systems are essential in modern data-driven platforms, where personalization is key to user engagement. 
