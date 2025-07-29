@@ -80,3 +80,6 @@ This task demonstrates how powerful machine learning concepts like matrix factor
 
 providing a stepping stone to more advanced systems using libraries like scikit-learn, Surprise, or TensorFlow.
 
+**OUTPUT:**
+
+<img width="853" height="505" alt="Image" src="https://github.com/user-attachments/assets/8bd489af-32b9-459a-9a59-82e5bda71d57" />
